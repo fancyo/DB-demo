@@ -1,0 +1,8 @@
+body {
+    background-color: #588157;
+}
+
+div {
+    display: flex;
+    justify-content: right;
+}
